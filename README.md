@@ -31,9 +31,12 @@ VS code
 ajouter Extension Remote SSH
 Open SSH configuration File
 
-Host NOM_DE_LACONNECTION
-    HostName ND DU VPS OU DE INSTANCE
-    User NOM UTILISATEUR
-    IdentityFile CHEMIN VERS LA CLE SOUS FORME PEM EX C:\Users\MONOM\.ssh\cle.pem
+
+Host NOM_DE_LACONNECTION	
+HostName ND DU VPS OU DE INSTANCE
+User NOM UTILISATEUR
+IdentityFile CHEMIN VERS LA CLE SOUS FORME PEM EX C:\Users\MONOM\.ssh\cle.pem
+
+
 
 
