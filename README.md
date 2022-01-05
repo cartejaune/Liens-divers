@@ -24,3 +24,16 @@ Dans le menu supérieur de PuTTY Key Generator, sélectionnez Conversions, Expor
 Remarque : si vous n'avez pas saisi de phrase clé secrète, PuTTYgen générera un avertissement. Sélectionnez Yes (Oui).
 Attribuez un nom au fichier et ajoutez l'extension .pem.
 Sélectionnez « Save » (Enregistrer).
+
+
+//////
+VS code 
+ajouter Extension Remote SSH
+Open SSH configuration File
+
+Host NOM_DE_LACONNECTION
+    HostName ND DU VPS OU DE INSTANCE
+    User NOM UTILISATEUR
+    IdentityFile CHEMIN VERS LA CLE SOUS FORME PEM EX C:\Users\MONOM\.ssh\cle.pem
+
+
